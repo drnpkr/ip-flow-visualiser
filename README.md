@@ -8,7 +8,23 @@ The program can visualise flows in three ways.
 
 1. Single flow visualisation:
 
+<p align="center">
+  <img src="/fig/test1.png" width="410">
+</p>
+
+<p align="center">
+  <img src="/fig/test2.png" width="410">
+</p>
+
 2. Multiple flows side-by-side:
 
+<p align="center">
+  <img src="/fig/3x3.png" width="410">
+</p>
+
 3. Multiple overlapping flow visualisation:
+
+<p align="center">
+  <img src="/fig/red.png" width="410">
+</p>
 
